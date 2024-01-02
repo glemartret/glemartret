@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **guillaume@lemartret.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/guillaume-le-martret](www.linkedin.com/in/guillaume-le-martret)
+- 📄 Know about my experiences [https://www.linkedin.com/in/guillaume-le-martret](https://www.linkedin.com/in/guillaume-le-martret)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
