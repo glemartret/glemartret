@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Any small to medium size Projects**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 👨‍💻 All of my projects are available at Coming soon
 
 - 💬 Ask me about **Flutter and Dart**
 
