@@ -3,6 +3,9 @@
 <h3 align="center">Expert in App Development 📱</h3>
 <h3 align="center">Turning Ideas into Reality 🌟</h3>
 
+<br>
+<br>
+
 - 🔭 I’m currently working on [Salted](https://apps.apple.com/fr/app/salted/id1173982383) and more internal tools for [@Hoalen](https://www.hoalen.com/en/)
 
 - 👯 I’m looking to collaborate on **Any small to medium size Projects**
