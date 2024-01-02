@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
 <h3 align="center">A passionate Flutter developer from France</h3>
 
-- 🔭 I’m currently working on **Salted and more internal tools for @Hoalen**
+- 🔭 I’m currently working on [Salted and more internal tools for @Hoalen](https://apps.apple.com/fr/app/salted/id1173982383)
 
 - 👯 I’m looking to collaborate on **Any small to medium size Projects**
 
