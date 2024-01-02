@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guillaume</h1>
+<h1 align="center">Hi, I'm Guillaume 👋</h1>
 <h3 align="center">Crafting Innovative Mobile Applications 🚀</h3>
 <h3 align="center">Expert in App Development 📱</h3>
 <h3 align="center">Turning Ideas into Reality 🌟</h3>
