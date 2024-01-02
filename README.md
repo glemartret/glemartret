@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
-<h3 align="center">A passionate Flutter developer from France</h3>
+<h3 align="center">Crafting Innovative Mobile Applications 🚀
+Experts in App Development 📱
+Turning Ideas into Reality 🌟</h3>
 
-- 🔭 I’m currently working on [Salted and more internal tools for @Hoalen](https://apps.apple.com/fr/app/salted/id1173982383)
+- 🔭 I’m currently working on [Salted](https://apps.apple.com/fr/app/salted/id1173982383) and more internal tools for [@Hoalen](https://www.hoalen.com/en/)
 
 - 👯 I’m looking to collaborate on **Any small to medium size Projects**
 
