@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Guillaume 👋</h1>
+<p align="center">
+  <a href="https://github.com/glemartret/glemartret/blob/main/README.md">English</a> | <a href="https://github.com/glemartret/glemartret/blob/main/README_FR.md">Français</a>
+</p>
 <h3 align="center">Crafting Innovative Mobile Applications 🚀</h3>
 <h3 align="center">Expert in App Development 📱</h3>
 <h3 align="center">Turning Ideas into Reality 🌟</h3>
@@ -10,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Any small to medium size Projects**
 
-- 👨‍💻 All of my projects are available at Coming soon
+- 👨‍💻 All of my projects are available at _Coming soon_
 
 - 💬 Ask me about **Flutter and Dart**
 
